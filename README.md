@@ -1,11 +1,8 @@
-<!-- [![Ujjwal Chowdhury](https://github.com/U77w41/U77w41/blob/main/ezgif.com-gif-maker.gif "Ujjwal Chowdhury")](https://github.com/U77w41) -->
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
 
-<h1 align="center">Hi 👋, I'm Ujjwal Chowdhury</h1>
-<h3> I am currently pursuing MSc from Ramakrishna Mission Vivekananda Educational and Research Institute , Belur , West Bengal. 
-I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching animes. I am greatly interested in Data Science and Machine Learning. I am enthusiastically looking forward to contribute to open source projects through Github.</h3>
+
+<h1 align="center">Hi 👋, I'm Subham Samanta</h1>
+<h3> I am currently pursuing MSc from Ramakrishna Mission Vivekananda Educational and Research Institute, Belur, West Bengal. 
+I am an aspiring Data Scientist. My hobbies are playing Cricket, Table-Tenis. I am interested in Data Science and Machine Learning. I am enthusiastically looking forward to contribute to open source projects through Github.</h3>
 
 
 
@@ -14,31 +11,24 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
 <h3 align="left">Connect with me:</h3> 
 <div align="left">
-<a href="https://linkedin.com/in/u77w41" target="_blank">
+<a href="https://www.linkedin.com/in/subham-sam221/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
  
-<a href="https://github.com/u77w41" target="_blank">
+<a href="https://github.com/subhamsamgit" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/UjjwalCh0wdhury" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://www.hackerrank.com/u77w41" target="_blank">
+<a href="https://www.hackerrank.com/subhamsam574" target="_blank">
 <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
 
 
-<a href="https://www.kaggle.com/ujjwalchowdhury " target="_blank">
+<a href="https://www.kaggle.com/subhamsam" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
 
 
-  
-<a href="https://dev.to/u77w41" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
   
 </div>  
   
@@ -46,17 +36,15 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
 
 
-- 🔭 I’m currently working on [Bengali Automatic Speech Recognition](https://www.kaggle.com/competitions/dlsprint)
+- 🔭 I’m currently working on [Different Transformer Models for Text Processing]
 
-- 🌱 I’m currently learning **Deep Learning , NLP , Statistics**
+- 🌱 I’m currently learning **Deep Learning , NLP , Inferential Statistics, Econometrics & Finance**
 
-- 👯 I’m looking to collaborate on [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)
+- 🤝 I’m looking for help with **Building Chatbot or atomate question answering**
 
-- 🤝 I’m looking for help with **Personalized Reinforcement Based Recommendation System**
+- 📫 How to reach me **subhamsamanta221@gmail.com**
 
-- 📫 How to reach me **ujjwalchowdhury@protonmail.ch**
-
-- ⚡ Fun fact **Not every Python is a snake.**
+- ⚡ Fun fact **No fun fact**
 
 
 
