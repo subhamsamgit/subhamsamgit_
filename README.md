@@ -109,51 +109,27 @@ I am an aspiring Data Scientist. My hobbies are playing Cricket, Table-Tenis. I 
 
 
 ### Github Stats  
-<div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=u77w41&theme=github_dark" align="left" style="width: 47%"/></div>  
+<div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhamsamgit&theme=github_dark" align="left" style="width: 47%"/></div>  
  
- <div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=u77w41&theme=2077" align="left" style="width: 47%"/></div> 
+ <div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhamsamgit&theme=2077" align="left" style="width: 47%"/></div> 
 
 
 </div>
 
-<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=u77w41&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"  style="width: 80%" />
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=subhamsamgit&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"  style="width: 80%" />
 
 
  
 <div align="center">
-   <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=u77w41&theme=github"/>
+   <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=subhamsamgit&theme=github"/>
 </div>
  
 </div>
 
-<!-- ### WakaTime Coding Activity
-
-##### Total Coding Time (5th Sep, 2022 onwards)
-<a href="https://wakatime.com/@U77w41" title="Data update every midnight"><img src="https://wakatime.com/badge/user/6a1afd30-2c0e-4378-86f8-281e436907a4.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
-
-##### Weekly Activity (5th Sep, 2022 onwards)
-<a href="https://wakatime.com/@U77w41" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=U77w41&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" style="width: 80%"/></a>
-
- </div> -->
- 
- 
- 
-
- 
-### Kaggle Profile Status:
-
-
-
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/discussion)
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/competition)
-
- 
 
  
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=u77w41&label=Profile%20views&color=0e75b6&style=flat" alt="u77w41" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=subhamsamgit&label=Profile%20views&color=0e75b6&style=flat" alt="subhamsamgit" /> </p>
  
 
 
